@@ -1,0 +1,251 @@
+Invoice Number,PO Reference,Vendor Name,Amount (INR),Region,Due Date,Payment Status,Tax GSTIN
+INV-8801,PO-4091,Vendor B Solutions,55470,Tamil Nadu,2026-09-15,OVERDUE,33AABCT2001K1ZZ
+INV-8802,PO-4092,Vendor C Solutions,58940,Tamil Nadu,2026-09-15,OVERDUE,33AABCT2002K1ZZ
+INV-8803,PO-4093,Vendor D Solutions,62410,Tamil Nadu,2026-09-15,OVERDUE,33AABCT2003K1ZZ
+INV-8804,PO-4094,Vendor E Solutions,65880,Tamil Nadu,2026-09-15,OVERDUE,33AABCT2004K1ZZ
+INV-8805,PO-4095,Vendor F Solutions,69350,Tamil Nadu,2026-09-15,OVERDUE,33AABCT2005K1ZZ
+INV-8806,PO-4096,Vendor G Solutions,72820,Tamil Nadu,2026-10-30,Settled,33AABCT2006K1ZZ
+INV-8807,PO-4097,Vendor H Solutions,76290,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2007K1ZZ
+INV-8808,PO-4098,Vendor I Solutions,79760,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2008K1ZZ
+INV-8809,PO-4099,Vendor J Solutions,83230,Tamil Nadu,2026-10-30,Settled,33AABCT2009K1ZZ
+INV-8810,PO-4100,Vendor K Solutions,86700,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2010K1ZZ
+INV-8811,PO-4101,Vendor L Solutions,90170,Karnataka,2026-10-30,Pending Verification,33AABCT2011K1ZZ
+INV-8812,PO-4102,Vendor M Solutions,93640,Tamil Nadu,2026-10-30,Settled,33AABCT2012K1ZZ
+INV-8813,PO-4103,Vendor N Solutions,97110,Delhi NCR,2026-10-30,Pending Verification,33AABCT2013K1ZZ
+INV-8814,PO-4104,Vendor O Solutions,100580,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2014K1ZZ
+INV-8815,PO-4105,Vendor P Solutions,104050,Tamil Nadu,2026-10-30,Settled,33AABCT2015K1ZZ
+INV-8816,PO-4106,Vendor Q Solutions,107520,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2016K1ZZ
+INV-8817,PO-4107,Vendor R Solutions,110990,Maharashtra,2026-10-30,Pending Verification,33AABCT2017K1ZZ
+INV-8818,PO-4108,Vendor S Solutions,114460,Tamil Nadu,2026-10-30,Settled,33AABCT2018K1ZZ
+INV-8819,PO-4109,Vendor T Solutions,117930,Telangana,2026-10-30,Pending Verification,33AABCT2019K1ZZ
+INV-8820,PO-4110,Vendor U Solutions,121400,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2020K1ZZ
+INV-8821,PO-4091,Apex Cloud Infrastructure Ltd.,118500,Karnataka,2026-10-30,Settled,33AABCT2021K1ZZ
+INV-8822,PO-4112,Vendor W Solutions,53340,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2022K1ZZ
+INV-8823,PO-4113,Vendor X Solutions,56810,Delhi NCR,2026-10-30,Pending Verification,33AABCT2023K1ZZ
+INV-8824,PO-4114,Vendor Y Solutions,60280,Tamil Nadu,2026-10-30,Settled,33AABCT2024K1ZZ
+INV-8825,PO-4115,Vendor Z Solutions,63750,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2025K1ZZ
+INV-8826,PO-4116,Vendor A Solutions,67220,Karnataka,2026-10-30,Pending Verification,33AABCT2026K1ZZ
+INV-8827,PO-4117,Vendor B Solutions,70690,Maharashtra,2026-10-30,Settled,33AABCT2027K1ZZ
+INV-8828,PO-4118,Vendor C Solutions,74160,Delhi NCR,2026-10-30,Pending Verification,33AABCT2028K1ZZ
+INV-8829,PO-4119,Vendor D Solutions,77630,Telangana,2026-10-30,Pending Verification,33AABCT2029K1ZZ
+INV-8830,PO-4120,Vendor E Solutions,81100,Tamil Nadu,2026-10-30,Settled,33AABCT2030K1ZZ
+INV-8831,PO-4121,Vendor F Solutions,84570,Karnataka,2026-10-30,Pending Verification,33AABCT2031K1ZZ
+INV-8832,PO-4122,Vendor G Solutions,88040,Maharashtra,2026-10-30,Pending Verification,33AABCT2032K1ZZ
+INV-8833,PO-4123,Vendor H Solutions,91510,Delhi NCR,2026-10-30,Settled,33AABCT2033K1ZZ
+INV-8834,PO-4124,Vendor I Solutions,94980,Telangana,2026-10-30,Pending Verification,33AABCT2034K1ZZ
+INV-8835,PO-4125,Vendor J Solutions,98450,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2035K1ZZ
+INV-8836,PO-4126,Vendor K Solutions,101920,Karnataka,2026-10-30,Settled,33AABCT2036K1ZZ
+INV-8837,PO-4127,Vendor L Solutions,105390,Maharashtra,2026-10-30,Pending Verification,33AABCT2037K1ZZ
+INV-8838,PO-4128,Vendor M Solutions,108860,Delhi NCR,2026-10-30,Pending Verification,33AABCT2038K1ZZ
+INV-8839,PO-4129,Vendor N Solutions,112330,Telangana,2026-10-30,Settled,33AABCT2039K1ZZ
+INV-8840,PO-4130,Vendor O Solutions,115800,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2040K1ZZ
+INV-8841,PO-4131,Vendor P Solutions,119270,Karnataka,2026-10-30,Pending Verification,33AABCT2041K1ZZ
+INV-8842,PO-4132,Vendor Q Solutions,122740,Maharashtra,2026-10-30,Settled,33AABCT2042K1ZZ
+INV-8843,PO-4133,Vendor R Solutions,28890,Delhi NCR,2026-10-30,Pending Verification,33AABCT2043K1ZZ
+INV-8844,PO-4134,Vendor S Solutions,30120,Telangana,2026-10-30,Pending Verification,33AABCT2044K1ZZ
+INV-8845,PO-4135,Vendor T Solutions,31350,Tamil Nadu,2026-10-30,Settled,33AABCT2045K1ZZ
+INV-8846,PO-4136,Vendor U Solutions,32580,Karnataka,2026-10-30,Pending Verification,33AABCT2046K1ZZ
+INV-8847,PO-4137,Vendor V Solutions,33810,Maharashtra,2026-10-30,Pending Verification,33AABCT2047K1ZZ
+INV-8848,PO-4138,Vendor W Solutions,35040,Delhi NCR,2026-10-30,Settled,33AABCT2048K1ZZ
+INV-8849,PO-4139,Vendor X Solutions,36270,Telangana,2026-10-30,Pending Verification,33AABCT2049K1ZZ
+INV-8850,PO-4140,Vendor Y Solutions,37500,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2050K1ZZ
+INV-8851,PO-4141,Vendor Z Solutions,38730,Karnataka,2026-10-30,Settled,33AABCT2051K1ZZ
+INV-8852,PO-4142,Vendor A Solutions,39960,Maharashtra,2026-10-30,Pending Verification,33AABCT2052K1ZZ
+INV-8853,PO-4143,Vendor B Solutions,41190,Delhi NCR,2026-10-30,Pending Verification,33AABCT2053K1ZZ
+INV-8854,PO-4144,Vendor C Solutions,42420,Telangana,2026-10-30,Settled,33AABCT2054K1ZZ
+INV-8855,PO-4145,Vendor D Solutions,43650,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2055K1ZZ
+INV-8856,PO-4146,Vendor E Solutions,44880,Karnataka,2026-10-30,Pending Verification,33AABCT2056K1ZZ
+INV-8857,PO-4147,Vendor F Solutions,46110,Maharashtra,2026-10-30,Settled,33AABCT2057K1ZZ
+INV-8858,PO-4148,Vendor G Solutions,47340,Delhi NCR,2026-10-30,Pending Verification,33AABCT2058K1ZZ
+INV-8859,PO-4149,Vendor H Solutions,12570,Telangana,2026-10-30,Pending Verification,33AABCT2059K1ZZ
+INV-8860,PO-4150,Vendor I Solutions,13800,Tamil Nadu,2026-10-30,Settled,33AABCT2060K1ZZ
+INV-8861,PO-4151,Vendor J Solutions,15030,Karnataka,2026-10-30,Pending Verification,33AABCT2061K1ZZ
+INV-8862,PO-4152,Vendor K Solutions,16260,Maharashtra,2026-10-30,Pending Verification,33AABCT2062K1ZZ
+INV-8863,PO-4153,Vendor L Solutions,17490,Delhi NCR,2026-10-30,Settled,33AABCT2063K1ZZ
+INV-8864,PO-4154,Vendor M Solutions,18720,Telangana,2026-10-30,Pending Verification,33AABCT2064K1ZZ
+INV-8865,PO-4155,Vendor N Solutions,19950,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2065K1ZZ
+INV-8866,PO-4156,Vendor O Solutions,21180,Karnataka,2026-10-30,Settled,33AABCT2066K1ZZ
+INV-8867,PO-4157,Vendor P Solutions,22410,Maharashtra,2026-10-30,Pending Verification,33AABCT2067K1ZZ
+INV-8868,PO-4158,Vendor Q Solutions,23640,Delhi NCR,2026-10-30,Pending Verification,33AABCT2068K1ZZ
+INV-8869,PO-4159,Vendor R Solutions,24870,Telangana,2026-10-30,Settled,33AABCT2069K1ZZ
+INV-8870,PO-4160,Vendor S Solutions,26100,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2070K1ZZ
+INV-8871,PO-4161,Vendor T Solutions,27330,Karnataka,2026-10-30,Pending Verification,33AABCT2071K1ZZ
+INV-8872,PO-4162,Vendor U Solutions,28560,Maharashtra,2026-10-30,Settled,33AABCT2072K1ZZ
+INV-8873,PO-4163,Vendor V Solutions,29790,Delhi NCR,2026-10-30,Pending Verification,33AABCT2073K1ZZ
+INV-8874,PO-4164,Vendor W Solutions,31020,Telangana,2026-10-30,Pending Verification,33AABCT2074K1ZZ
+INV-8875,PO-4165,Vendor X Solutions,32250,Tamil Nadu,2026-10-30,Settled,33AABCT2075K1ZZ
+INV-8876,PO-4166,Vendor Y Solutions,33480,Karnataka,2026-10-30,Pending Verification,33AABCT2076K1ZZ
+INV-8877,PO-4167,Vendor Z Solutions,34710,Maharashtra,2026-10-30,Pending Verification,33AABCT2077K1ZZ
+INV-8878,PO-4168,Vendor A Solutions,35940,Delhi NCR,2026-10-30,Settled,33AABCT2078K1ZZ
+INV-8879,PO-4169,Vendor B Solutions,37170,Telangana,2026-10-30,Pending Verification,33AABCT2079K1ZZ
+INV-8880,PO-4090,Vendor C Solutions,38400,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2080K1ZZ
+INV-8881,PO-4091,Vendor D Solutions,39630,Karnataka,2026-10-30,Settled,33AABCT2081K1ZZ
+INV-8882,PO-4092,Vendor E Solutions,40860,Maharashtra,2026-10-30,Pending Verification,33AABCT2082K1ZZ
+INV-8883,PO-4093,Vendor F Solutions,42090,Delhi NCR,2026-10-30,Pending Verification,33AABCT2083K1ZZ
+INV-8884,PO-4094,Vendor G Solutions,43320,Telangana,2026-10-30,Settled,33AABCT2084K1ZZ
+INV-8885,PO-4095,Vendor H Solutions,44550,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2085K1ZZ
+INV-8886,PO-4096,Vendor I Solutions,45780,Karnataka,2026-10-30,Pending Verification,33AABCT2086K1ZZ
+INV-8887,PO-4097,Vendor J Solutions,47010,Maharashtra,2026-10-30,Settled,33AABCT2087K1ZZ
+INV-8888,PO-4098,Vendor K Solutions,12240,Delhi NCR,2026-10-30,Pending Verification,33AABCT2088K1ZZ
+INV-8889,PO-4099,Vendor L Solutions,13470,Telangana,2026-10-30,Pending Verification,33AABCT2089K1ZZ
+INV-8890,PO-4100,Vendor M Solutions,14700,Tamil Nadu,2026-10-30,Settled,33AABCT2090K1ZZ
+INV-8891,PO-4101,Vendor N Solutions,15930,Karnataka,2026-10-30,Pending Verification,33AABCT2091K1ZZ
+INV-8892,PO-4102,Vendor O Solutions,17160,Maharashtra,2026-10-30,Pending Verification,33AABCT2092K1ZZ
+INV-8893,PO-4103,Vendor P Solutions,18390,Delhi NCR,2026-10-30,Settled,33AABCT2093K1ZZ
+INV-8894,PO-4104,Vendor Q Solutions,19620,Telangana,2026-10-30,Pending Verification,33AABCT2094K1ZZ
+INV-8895,PO-4105,Vendor R Solutions,20850,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2095K1ZZ
+INV-8896,PO-4106,Vendor S Solutions,22080,Karnataka,2026-10-30,Settled,33AABCT2096K1ZZ
+INV-8897,PO-4107,Vendor T Solutions,23310,Maharashtra,2026-10-30,Pending Verification,33AABCT2097K1ZZ
+INV-8898,PO-4108,Vendor U Solutions,24540,Delhi NCR,2026-10-30,Pending Verification,33AABCT2098K1ZZ
+INV-8899,PO-4109,Vendor V Solutions,25770,Telangana,2026-10-30,Settled,33AABCT2099K1ZZ
+INV-8900,PO-4110,Vendor W Solutions,27000,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2100K1ZZ
+INV-8901,PO-4111,Vendor X Solutions,28230,Karnataka,2026-10-30,Pending Verification,33AABCT2101K1ZZ
+INV-8902,PO-4112,Vendor Y Solutions,29460,Maharashtra,2026-10-30,Settled,33AABCT2102K1ZZ
+INV-8903,PO-4113,Vendor Z Solutions,30690,Delhi NCR,2026-10-30,Pending Verification,33AABCT2103K1ZZ
+INV-8904,PO-4114,Vendor A Solutions,31920,Telangana,2026-10-30,Pending Verification,33AABCT2104K1ZZ
+INV-8905,PO-4115,Vendor B Solutions,33150,Tamil Nadu,2026-10-30,Settled,33AABCT2105K1ZZ
+INV-8906,PO-4116,Vendor C Solutions,34380,Karnataka,2026-10-30,Pending Verification,33AABCT2106K1ZZ
+INV-8907,PO-4117,Vendor D Solutions,35610,Maharashtra,2026-10-30,Pending Verification,33AABCT2107K1ZZ
+INV-8908,PO-4118,Vendor E Solutions,36840,Delhi NCR,2026-10-30,Settled,33AABCT2108K1ZZ
+INV-8909,PO-4119,Vendor F Solutions,38070,Telangana,2026-10-30,Pending Verification,33AABCT2109K1ZZ
+INV-8910,PO-4120,Vendor G Solutions,39300,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2110K1ZZ
+INV-8911,PO-4121,Vendor H Solutions,40530,Karnataka,2026-10-30,Settled,33AABCT2111K1ZZ
+INV-8912,PO-4122,Vendor I Solutions,41760,Maharashtra,2026-10-30,Pending Verification,33AABCT2112K1ZZ
+INV-8913,PO-4123,Vendor J Solutions,42990,Delhi NCR,2026-10-30,Pending Verification,33AABCT2113K1ZZ
+INV-8914,PO-4124,Vendor K Solutions,44220,Telangana,2026-10-30,Settled,33AABCT2114K1ZZ
+INV-8915,PO-4125,Vendor L Solutions,45450,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2115K1ZZ
+INV-8916,PO-4126,Vendor M Solutions,46680,Karnataka,2026-10-30,Pending Verification,33AABCT2116K1ZZ
+INV-8917,PO-4127,Vendor N Solutions,47910,Maharashtra,2026-10-30,Settled,33AABCT2117K1ZZ
+INV-8918,PO-4128,Vendor O Solutions,13140,Delhi NCR,2026-10-30,Pending Verification,33AABCT2118K1ZZ
+INV-8919,PO-4129,Vendor P Solutions,14370,Telangana,2026-10-30,Pending Verification,33AABCT2119K1ZZ
+INV-8920,PO-4130,Vendor Q Solutions,15600,Tamil Nadu,2026-10-30,Settled,33AABCT2120K1ZZ
+INV-8921,PO-4131,Vendor R Solutions,16830,Karnataka,2026-10-30,Pending Verification,33AABCT2121K1ZZ
+INV-8922,PO-4132,Vendor S Solutions,18060,Maharashtra,2026-10-30,Pending Verification,33AABCT2122K1ZZ
+INV-8923,PO-4133,Vendor T Solutions,19290,Delhi NCR,2026-10-30,Settled,33AABCT2123K1ZZ
+INV-8924,PO-4134,Vendor U Solutions,20520,Telangana,2026-10-30,Pending Verification,33AABCT2124K1ZZ
+INV-8925,PO-4135,Vendor V Solutions,21750,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2125K1ZZ
+INV-8926,PO-4136,Vendor W Solutions,22980,Karnataka,2026-10-30,Settled,33AABCT2126K1ZZ
+INV-8927,PO-4137,Vendor X Solutions,24210,Maharashtra,2026-10-30,Pending Verification,33AABCT2127K1ZZ
+INV-8928,PO-4138,Vendor Y Solutions,25440,Delhi NCR,2026-10-30,Pending Verification,33AABCT2128K1ZZ
+INV-8929,PO-4139,Vendor Z Solutions,26670,Telangana,2026-10-30,Settled,33AABCT2129K1ZZ
+INV-8930,PO-4140,Vendor A Solutions,27900,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2130K1ZZ
+INV-8931,PO-4141,Vendor B Solutions,29130,Karnataka,2026-10-30,Pending Verification,33AABCT2131K1ZZ
+INV-8932,PO-4142,Vendor C Solutions,30360,Maharashtra,2026-10-30,Settled,33AABCT2132K1ZZ
+INV-8933,PO-4143,Vendor D Solutions,31590,Delhi NCR,2026-10-30,Pending Verification,33AABCT2133K1ZZ
+INV-8934,PO-4144,Vendor E Solutions,32820,Telangana,2026-10-30,Pending Verification,33AABCT2134K1ZZ
+INV-8935,PO-4145,Vendor F Solutions,34050,Tamil Nadu,2026-10-30,Settled,33AABCT2135K1ZZ
+INV-8936,PO-4146,Vendor G Solutions,35280,Karnataka,2026-10-30,Pending Verification,33AABCT2136K1ZZ
+INV-8937,PO-4147,Vendor H Solutions,36510,Maharashtra,2026-10-30,Pending Verification,33AABCT2137K1ZZ
+INV-8938,PO-4148,Vendor I Solutions,37740,Delhi NCR,2026-10-30,Settled,33AABCT2138K1ZZ
+INV-8939,PO-4149,Vendor J Solutions,38970,Telangana,2026-10-30,Pending Verification,33AABCT2139K1ZZ
+INV-8940,PO-4150,Vendor K Solutions,40200,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2140K1ZZ
+INV-8941,PO-4151,Vendor L Solutions,41430,Karnataka,2026-10-30,Settled,33AABCT2141K1ZZ
+INV-8942,PO-4152,Vendor M Solutions,42660,Maharashtra,2026-10-30,Pending Verification,33AABCT2142K1ZZ
+INV-8943,PO-4153,Vendor N Solutions,43890,Delhi NCR,2026-10-30,Pending Verification,33AABCT2143K1ZZ
+INV-8944,PO-4154,Vendor O Solutions,45120,Telangana,2026-10-30,Settled,33AABCT2144K1ZZ
+INV-8945,PO-4155,Vendor P Solutions,46350,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2145K1ZZ
+INV-8946,PO-4156,Vendor Q Solutions,47580,Karnataka,2026-10-30,Pending Verification,33AABCT2146K1ZZ
+INV-8947,PO-4157,Vendor R Solutions,12810,Maharashtra,2026-10-30,Settled,33AABCT2147K1ZZ
+INV-8948,PO-4158,Vendor S Solutions,14040,Delhi NCR,2026-10-30,Pending Verification,33AABCT2148K1ZZ
+INV-8949,PO-4159,Vendor T Solutions,15270,Telangana,2026-10-30,Pending Verification,33AABCT2149K1ZZ
+INV-8950,PO-4160,Vendor U Solutions,16500,Tamil Nadu,2026-10-30,Settled,33AABCT2150K1ZZ
+INV-8951,PO-4161,Vendor V Solutions,17730,Karnataka,2026-10-30,Pending Verification,33AABCT2151K1ZZ
+INV-8952,PO-4162,Vendor W Solutions,18960,Maharashtra,2026-10-30,Pending Verification,33AABCT2152K1ZZ
+INV-8953,PO-4163,Vendor X Solutions,20190,Delhi NCR,2026-10-30,Settled,33AABCT2153K1ZZ
+INV-8954,PO-4164,Vendor Y Solutions,21420,Telangana,2026-10-30,Pending Verification,33AABCT2154K1ZZ
+INV-8955,PO-4165,Vendor Z Solutions,22650,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2155K1ZZ
+INV-8956,PO-4166,Vendor A Solutions,23880,Karnataka,2026-10-30,Settled,33AABCT2156K1ZZ
+INV-8957,PO-4167,Vendor B Solutions,25110,Maharashtra,2026-10-30,Pending Verification,33AABCT2157K1ZZ
+INV-8958,PO-4168,Vendor C Solutions,26340,Delhi NCR,2026-10-30,Pending Verification,33AABCT2158K1ZZ
+INV-8959,PO-4169,Vendor D Solutions,27570,Telangana,2026-10-30,Settled,33AABCT2159K1ZZ
+INV-8960,PO-4090,Vendor E Solutions,28800,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2160K1ZZ
+INV-8961,PO-4091,Vendor F Solutions,30030,Karnataka,2026-10-30,Pending Verification,33AABCT2161K1ZZ
+INV-8962,PO-4092,Vendor G Solutions,31260,Maharashtra,2026-10-30,Settled,33AABCT2162K1ZZ
+INV-8963,PO-4093,Vendor H Solutions,32490,Delhi NCR,2026-10-30,Pending Verification,33AABCT2163K1ZZ
+INV-8964,PO-4094,Vendor I Solutions,33720,Telangana,2026-10-30,Pending Verification,33AABCT2164K1ZZ
+INV-8965,PO-4095,Vendor J Solutions,34950,Tamil Nadu,2026-10-30,Settled,33AABCT2165K1ZZ
+INV-8966,PO-4096,Vendor K Solutions,36180,Karnataka,2026-10-30,Pending Verification,33AABCT2166K1ZZ
+INV-8967,PO-4097,Vendor L Solutions,37410,Maharashtra,2026-10-30,Pending Verification,33AABCT2167K1ZZ
+INV-8968,PO-4098,Vendor M Solutions,38640,Delhi NCR,2026-10-30,Settled,33AABCT2168K1ZZ
+INV-8969,PO-4099,Vendor N Solutions,39870,Telangana,2026-10-30,Pending Verification,33AABCT2169K1ZZ
+INV-8970,PO-4100,Vendor O Solutions,41100,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2170K1ZZ
+INV-8971,PO-4101,Vendor P Solutions,42330,Karnataka,2026-10-30,Settled,33AABCT2171K1ZZ
+INV-8972,PO-4102,Vendor Q Solutions,43560,Maharashtra,2026-10-30,Pending Verification,33AABCT2172K1ZZ
+INV-8973,PO-4103,Vendor R Solutions,44790,Delhi NCR,2026-10-30,Pending Verification,33AABCT2173K1ZZ
+INV-8974,PO-4104,Vendor S Solutions,46020,Telangana,2026-10-30,Settled,33AABCT2174K1ZZ
+INV-8975,PO-4105,Vendor T Solutions,47250,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2175K1ZZ
+INV-8976,PO-4106,Vendor U Solutions,12480,Karnataka,2026-10-30,Pending Verification,33AABCT2176K1ZZ
+INV-8977,PO-4107,Vendor V Solutions,13710,Maharashtra,2026-10-30,Settled,33AABCT2177K1ZZ
+INV-8978,PO-4108,Vendor W Solutions,14940,Delhi NCR,2026-10-30,Pending Verification,33AABCT2178K1ZZ
+INV-8979,PO-4109,Vendor X Solutions,16170,Telangana,2026-10-30,Pending Verification,33AABCT2179K1ZZ
+INV-8980,PO-4110,Vendor Y Solutions,17400,Tamil Nadu,2026-10-30,Settled,33AABCT2180K1ZZ
+INV-8981,PO-4111,Vendor Z Solutions,18630,Karnataka,2026-10-30,Pending Verification,33AABCT2181K1ZZ
+INV-8982,PO-4112,Vendor A Solutions,19860,Maharashtra,2026-10-30,Pending Verification,33AABCT2182K1ZZ
+INV-8983,PO-4113,Vendor B Solutions,21090,Delhi NCR,2026-10-30,Settled,33AABCT2183K1ZZ
+INV-8984,PO-4114,Vendor C Solutions,22320,Telangana,2026-10-30,Pending Verification,33AABCT2184K1ZZ
+INV-8985,PO-4115,Vendor D Solutions,23550,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2185K1ZZ
+INV-8986,PO-4116,Vendor E Solutions,24780,Karnataka,2026-10-30,Settled,33AABCT2186K1ZZ
+INV-8987,PO-4117,Vendor F Solutions,26010,Maharashtra,2026-10-30,Pending Verification,33AABCT2187K1ZZ
+INV-8988,PO-4118,Vendor G Solutions,27240,Delhi NCR,2026-10-30,Pending Verification,33AABCT2188K1ZZ
+INV-8989,PO-4119,Vendor H Solutions,28470,Telangana,2026-10-30,Settled,33AABCT2189K1ZZ
+INV-8990,PO-4120,Vendor I Solutions,29700,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2190K1ZZ
+INV-8991,PO-4121,Vendor J Solutions,30930,Karnataka,2026-10-30,Pending Verification,33AABCT2191K1ZZ
+INV-8992,PO-4122,Vendor K Solutions,32160,Maharashtra,2026-10-30,Settled,33AABCT2192K1ZZ
+INV-8993,PO-4123,Vendor L Solutions,33390,Delhi NCR,2026-10-30,Pending Verification,33AABCT2193K1ZZ
+INV-8994,PO-4124,Vendor M Solutions,34620,Telangana,2026-10-30,Pending Verification,33AABCT2194K1ZZ
+INV-8995,PO-4125,Vendor N Solutions,35850,Tamil Nadu,2026-10-30,Settled,33AABCT2195K1ZZ
+INV-8996,PO-4126,Vendor O Solutions,37080,Karnataka,2026-10-30,Pending Verification,33AABCT2196K1ZZ
+INV-8997,PO-4127,Vendor P Solutions,38310,Maharashtra,2026-10-30,Pending Verification,33AABCT2197K1ZZ
+INV-8998,PO-4128,Vendor Q Solutions,39540,Delhi NCR,2026-10-30,Settled,33AABCT2198K1ZZ
+INV-8999,PO-4129,Vendor R Solutions,40770,Telangana,2026-10-30,Pending Verification,33AABCT2199K1ZZ
+INV-9000,PO-4130,Vendor S Solutions,42000,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2200K1ZZ
+INV-9001,PO-4131,Vendor T Solutions,43230,Karnataka,2026-10-30,Settled,33AABCT2201K1ZZ
+INV-9002,PO-4132,Vendor U Solutions,44460,Maharashtra,2026-10-30,Pending Verification,33AABCT2202K1ZZ
+INV-9003,PO-4133,Vendor V Solutions,45690,Delhi NCR,2026-10-30,Pending Verification,33AABCT2203K1ZZ
+INV-9004,PO-4134,Vendor W Solutions,46920,Telangana,2026-10-30,Settled,33AABCT2204K1ZZ
+INV-9005,PO-4135,Vendor X Solutions,12150,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2205K1ZZ
+INV-9006,PO-4136,Vendor Y Solutions,13380,Karnataka,2026-10-30,Pending Verification,33AABCT2206K1ZZ
+INV-9007,PO-4137,Vendor Z Solutions,14610,Maharashtra,2026-10-30,Settled,33AABCT2207K1ZZ
+INV-9008,PO-4138,Vendor A Solutions,15840,Delhi NCR,2026-10-30,Pending Verification,33AABCT2208K1ZZ
+INV-9009,PO-4139,Vendor B Solutions,17070,Telangana,2026-10-30,Pending Verification,33AABCT2209K1ZZ
+INV-9010,PO-4140,Vendor C Solutions,18300,Tamil Nadu,2026-10-30,Settled,33AABCT2210K1ZZ
+INV-9011,PO-4141,Vendor D Solutions,19530,Karnataka,2026-10-30,Pending Verification,33AABCT2211K1ZZ
+INV-9012,PO-4142,Vendor E Solutions,20760,Maharashtra,2026-10-30,Pending Verification,33AABCT2212K1ZZ
+INV-9013,PO-4143,Vendor F Solutions,21990,Delhi NCR,2026-10-30,Settled,33AABCT2213K1ZZ
+INV-9014,PO-4144,Vendor G Solutions,23220,Telangana,2026-10-30,Pending Verification,33AABCT2214K1ZZ
+INV-9015,PO-4145,Vendor H Solutions,24450,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2215K1ZZ
+INV-9016,PO-4146,Vendor I Solutions,25680,Karnataka,2026-10-30,Settled,33AABCT2216K1ZZ
+INV-9017,PO-4147,Vendor J Solutions,26910,Maharashtra,2026-10-30,Pending Verification,33AABCT2217K1ZZ
+INV-9018,PO-4148,Vendor K Solutions,28140,Delhi NCR,2026-10-30,Pending Verification,33AABCT2218K1ZZ
+INV-9019,PO-4149,Vendor L Solutions,29370,Telangana,2026-10-30,Settled,33AABCT2219K1ZZ
+INV-9020,PO-4150,Vendor M Solutions,30600,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2220K1ZZ
+INV-9021,PO-4151,Vendor N Solutions,31830,Karnataka,2026-10-30,Pending Verification,33AABCT2221K1ZZ
+INV-9022,PO-4152,Vendor O Solutions,33060,Maharashtra,2026-10-30,Settled,33AABCT2222K1ZZ
+INV-9023,PO-4153,Vendor P Solutions,34290,Delhi NCR,2026-10-30,Pending Verification,33AABCT2223K1ZZ
+INV-9024,PO-4154,Vendor Q Solutions,35520,Telangana,2026-10-30,Pending Verification,33AABCT2224K1ZZ
+INV-9025,PO-4155,Vendor R Solutions,36750,Tamil Nadu,2026-10-30,Settled,33AABCT2225K1ZZ
+INV-9026,PO-4156,Vendor S Solutions,37980,Karnataka,2026-10-30,Pending Verification,33AABCT2226K1ZZ
+INV-9027,PO-4157,Vendor T Solutions,39210,Maharashtra,2026-10-30,Pending Verification,33AABCT2227K1ZZ
+INV-9028,PO-4158,Vendor U Solutions,40440,Delhi NCR,2026-10-30,Settled,33AABCT2228K1ZZ
+INV-9029,PO-4159,Vendor V Solutions,41670,Telangana,2026-10-30,Pending Verification,33AABCT2229K1ZZ
+INV-9030,PO-4160,Vendor W Solutions,42900,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2230K1ZZ
+INV-9031,PO-4161,Vendor X Solutions,44130,Karnataka,2026-10-30,Settled,33AABCT2231K1ZZ
+INV-9032,PO-4162,Vendor Y Solutions,45360,Maharashtra,2026-10-30,Pending Verification,33AABCT2232K1ZZ
+INV-9033,PO-4163,Vendor Z Solutions,46590,Delhi NCR,2026-10-30,Pending Verification,33AABCT2233K1ZZ
+INV-9034,PO-4164,Vendor A Solutions,47820,Telangana,2026-10-30,Settled,33AABCT2234K1ZZ
+INV-9035,PO-4165,Vendor B Solutions,13050,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2235K1ZZ
+INV-9036,PO-4166,Vendor C Solutions,14280,Karnataka,2026-10-30,Pending Verification,33AABCT2236K1ZZ
+INV-9037,PO-4167,Vendor D Solutions,15510,Maharashtra,2026-10-30,Settled,33AABCT2237K1ZZ
+INV-9038,PO-4168,Vendor E Solutions,16740,Delhi NCR,2026-10-30,Pending Verification,33AABCT2238K1ZZ
+INV-9039,PO-4169,Vendor F Solutions,17970,Telangana,2026-10-30,Pending Verification,33AABCT2239K1ZZ
+INV-9040,PO-4090,Vendor G Solutions,19200,Tamil Nadu,2026-10-30,Settled,33AABCT2240K1ZZ
+INV-9041,PO-4091,Vendor H Solutions,20430,Karnataka,2026-10-30,Pending Verification,33AABCT2241K1ZZ
+INV-9042,PO-4092,Vendor I Solutions,21660,Maharashtra,2026-10-30,Pending Verification,
+INV-9043,PO-4093,Vendor J Solutions,22890,Delhi NCR,2026-10-30,Settled,33AABCT2243K1ZZ
+INV-9044,PO-4094,Vendor K Solutions,24120,Telangana,2026-10-30,Pending Verification,33AABCT2244K1ZZ
+INV-9045,PO-4095,Vendor L Solutions,25350,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2245K1ZZ
+INV-9046,PO-4096,Vendor M Solutions,26580,Karnataka,2026-10-30,Settled,33AABCT2246K1ZZ
+INV-9047,PO-4097,Vendor N Solutions,27810,Maharashtra,2026-10-30,Pending Verification,33AABCT2247K1ZZ
+INV-9048,PO-4098,Vendor O Solutions,29040,Delhi NCR,2026-10-30,Pending Verification,33AABCT2248K1ZZ
+INV-9049,PO-4099,Vendor P Solutions,30270,Telangana,2026-10-30,Settled,33AABCT2249K1ZZ
+INV-9050,PO-4100,Vendor Q Solutions,31500,Tamil Nadu,2026-10-30,Pending Verification,33AABCT2250K1ZZ
