@@ -177,4 +177,5 @@ carrot-ai/
 #   c a r r o t A I  
  #   c a r r o t A I  
  #   c a r r o t  
+ #   c a r r o t t  
  
