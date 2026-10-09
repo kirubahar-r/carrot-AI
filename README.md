@@ -175,4 +175,5 @@ carrot-ai/
 - **Backend**: Python 3.11, FastAPI, Uvicorn, SQLite3, Pydantic
 - **Data**: Pre-indexed realistic enterprise dataset (1,050 records across HR, Procurement, Finance, IT)
 #   c a r r o t A I  
+ #   c a r r o t A I  
  
